@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=
+comment1.target=void\ think()
+comment2.params=
+comment2.target=int\ scoreBirth()
+comment3.params=
+comment3.target=int\ scoreExploring()
+comment4.params=
+comment4.target=int\ scoreMoving()
+comment5.params=x\ y
+comment5.target=int\ positionScoring(int,\ int)
+comment5.text=\n\ calculation\ how\ good\ the\ position\ is\n
+numComments=6

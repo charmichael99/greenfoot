@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=msg
+comment0.target=Log(java.lang.String)
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+numComments=2

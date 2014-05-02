@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=
+comment1.target=void\ think()
+comment2.params=t
+comment2.target=void\ moveTo(Thing)
+comment3.params=
+comment3.target=void\ moveRandom()
+comment4.params=ax\ ay\ bx\ by
+comment4.target=double\ distance(int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

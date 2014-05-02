@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=c\ w
+comment0.target=Visibility(Creature,\ greenfoot.World)
+comment1.params=radius
+comment1.target=void\ display(int)
+numComments=2

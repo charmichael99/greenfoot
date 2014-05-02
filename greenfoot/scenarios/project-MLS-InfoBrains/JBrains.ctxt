@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=void\ initiate(java.lang.String)
+comment0.text=\n\ 1\:\ water\n\ -1\:\ unknown\n\ -2\:\ known\ but\ nothing\n
+comment1.params=
+comment1.target=void\ substractHalfLife()
+comment10.params=i
+comment10.target=void\ pause(int)
+comment2.params=i
+comment2.target=void\ explore(int)
+comment3.params=
+comment3.target=void\ moveToMiddle()
+comment4.params=x\ y
+comment4.target=boolean\ moveTowards(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=void\ printMap()
+comment7.params=meX\ meY\ x\ y
+comment7.target=int\ distance(int,\ int,\ int,\ int)
+comment8.params=x\ y\ range\ ThingNumber
+comment8.target=int\ numberOfThings(int,\ int,\ int,\ int)
+comment9.params=x\ y
+comment9.target=int[]\ findNearestPlant(int,\ int)
+comment9.text=\n\ x\ &&\ y\ \=\=\ 0\ -->\ nearest\ Plant\ to\ my\ current\ position\n
+numComments=11
