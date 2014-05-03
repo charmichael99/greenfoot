@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=icon
+comment0.target=void\ initiate(java.lang.String)
+comment0.text=\n\ TO\ DO\:\n\ -\ only\ call\ intiate\ if\ first\ instance\n\ -\ remember\ wich\ round\n\ -\ call\ half-life\ function\ of\ map\ once\ a\ round\n
+comment1.params=range
+comment1.target=void\ explore(int)
+comment1.text=\n\ GOAL\:\ explore\ the\ surroundings\ in\ range\n
+comment2.params=x\ y
+comment2.target=boolean\ moveTowards(int,\ int)
+comment2.text=\n\ GOAL\:\ move\ towards\ coordinates\n\ ORDER\:\ east-west-south-north\n\ RETURNS\:\ true\ if\ walking\ was\ succesful,\ else\ false\ (f.ex.\ position\ \=\=\ coordinates)\n\ \n\ TO\ DO\:\n\ check\ if\ moving\ is\ possible\!\n
+comment3.params=
+comment3.target=boolean\ moveToMiddle()
+comment3.text=\n\ GOAL\:\ move\ towards\ the\ middle\n\ RETURN\:\ true\ if\ walking\ was\ succesful,\ else\ false\ (f.ex.\ position\ \=\=\ coordinates)\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\n\ NOT\ SURE\ WHAT\ THIS\ FUNCTION\ DOES.\ \n\ WHY\ WOULD\ THE\ CLASS\ BE\ OF\ INTEREST?\n
+comment5.params=i
+comment5.target=void\ pause(int)
+comment5.text=\n\ PAUSE\ FUNCTION\n\ -->\ delete\ in\ final\ version\n
+numComments=6

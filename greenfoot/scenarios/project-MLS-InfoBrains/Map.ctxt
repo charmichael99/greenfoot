@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=Map(Creature)
+comment1.params=c\ things\ range
+comment1.target=void\ update(Creature,\ Thing[],\ int)
+comment1.text=\n\ UPDATE\ MAP\ WITH\ NEW\ INFORMATION\n\ 1)\ delete\ outdated\ information\n\ 2)\ save\ new\ information\n
+comment2.params=x\ y
+comment2.target=int\ getObject(int,\ int)
+comment2.text=\n\ GETTER\ FUNCTIONS\n
+comment3.params=x\ y
+comment3.target=int\ getHalfLife(int,\ int)
+comment4.params=x\ y\ value
+comment4.target=void\ set(int,\ int,\ int)
+comment4.text=\n\ SETTER\ FUNCTION\n\ \n\ TO\ DO\:\n\ what\ half\ life\ for\ \n
+comment5.params=
+comment5.target=void\ substractHalfLife()
+comment5.text=\n\ GOAL\:\ prevent\ outdated\ information\ from\ persisting\ in\ the\ map\n\ \ \ \ \ \ \ -->\ 'expiration\ distance/time'\ is\ substracted\ by\ one\n\ \ \ \ \ \ \ -->\ shall\ be\ called\ once\ a\ round\n
+comment6.params=
+comment6.target=void\ print()
+comment6.text=\n\ GOAL\:\ visualize\ map\n\ \ \ \ \ \ \ -->\ two\ maps\ are\ created\n\ \ \ \ \ \ \ 1)\ map\ of\ known\ objects\n\ \ \ \ \ \ \ 2)\ their\ expiration\ round\ (countdown)\n\ \n\ OBJECTS\:\n\ fog\ \=\ x\n\ empty\ \=\ -\n\ water\ \=\ ?\n\ animals&plants\ \=\ 1-9\n\ \n\ EXPIRATION\:\n\ -\ countdown\ to\ expiration\ round\n\ -\ 9\ equals\ a\ very\ large\ number\n
+comment7.params=meX\ meY\ x\ y
+comment7.target=int\ distance(int,\ int,\ int,\ int)
+comment7.text=\n\ GOAL\:\ calculate\ distance\ from\ one\ coordinate\ to\ another\n\ \n
+comment8.params=x\ y\ range\ ThingNumber
+comment8.target=int\ numberOfThings(int,\ int,\ int,\ int)
+comment8.text=\n\ GOAL\:\ calculate\ number\ of\ things\ of\ a\ \n\ \ \ \ \ \ \ special\ type\ (defined\ by\ thingNumer)\ in\ range\ from\ coordinates\n\ \ \ \ \ \ \ \n\ RETURNS\:\ int\n
+comment9.params=x\ y
+comment9.target=int[]\ findNearestPlant(int,\ int)
+comment9.text=\n\ GOAL\:\ find\ coordinates\ of\ nearest\ Plant\n\ INPUT\:\ animals\ coordinates\ (x,y)\ -->\ (this.creature.getX().\ this.creature.getY())\n\ RETURNS\:\ 2D-int-array\ [x,y]\n\ \ \ \ \ \ \ \ \ \ null\ if\ there\ are\ no\ flowers\n
+numComments=10

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=
+comment1.target=void\ think()
+comment2.params=
+comment2.target=int\ scoreMoving()
+comment2.text=\n\ GOAL\:\ calculate\ score\ for\ moving\ in\ each\ of\ the\ 4\ directions\ and\ staying\ in\ place\ \n
+comment3.params=x\ y
+comment3.target=int\ positionScoring(int,\ int)
+comment3.text=\n\ GOAL\:\ calculate\ how\ good\ a\ position\ ist\n\ \n\ TODO\:\n\ -\ VARY\ VALUES\n
+numComments=4
